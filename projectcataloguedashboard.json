@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projectcataloguedashboard",
+  "private_key_id": "2ba5087cd3c7f3bc0558ef00b8dc36b8ff163e2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiHnsoVnD1XCDF\nsEA6ONYhvCaAWZCmvdHs/RWHWnjINBUby+ZkFBy7cN6PfzbQqYN9ukwwRuE0jSqI\n1ImjuUNB5dxd84CzTFvoCQpVUgaRpYuZbwcD7X914r9NEL+lozvozjkHBuO1PBK0\nDOpqCs63oSP1vgEXg/OyAtwQQIpEZOY+F6vGTdmRPJ8UT5TGs+Lk5Y8Szq9uySDy\naUY1RuN6QhGWuWOvuLQixehLQ0SCh1yKLA7zE7f906i9RcUkJBJSGjPafLpLLigt\nX4r/ZeHx0xs97VeZY/DjJtK3SYeQPZQY5l9gBQkoqpRrQ0eciT2ZMAzgmTSuqWI0\nbCoBSbGNAgMBAAECggEAG+z2N/+T25/wAT2YAq9xq0P2udszwJUoCRObVsJt1caq\n8CvSVuDkBiGuJLe8IHtirBCgORyshFngvsslnm82N665o/Fi9P+tQS31erbzbLlA\nb8ChS7roXs0dONAuwwB4PGTxi9VS+hAMBLnI01VjQFxgjl8ZXwyauMonUCFd7+PP\nDuB5V6LC2y5C53wJBMripBlDV2dMr7cnuaYhLhfayKtXCbVm45dHSdspMXfL06lK\nAIb93LLCXuKAjPHJqmcXUV9Lzr3Y4j38J3ltIUQ+jkoacdo6tJO1eNbBcvcYHrOQ\nnVmB3LyqelSh9XrPNA4e/hlC/fxpxEdV4oY3kD7zwQKBgQDfOvOZdBqo6hUv2iPk\nWLqzcGDyh4V14th7p9WXsrXr+Kip2/nVGoXXFV/ME3I6JxZalfZELDXblvuxSP4h\nE8EwSevnKaj5OUKuIHi7cXjv8IaZlz/HYSoDmy4ree+5Lv0FagX+fVcJCV6cJMQ1\neC7DEQ/gGFk17Pmvi/9g6Sf6kQKBgQC56vSJJVHn+YOXdj5F2hOYHA60P8HdNK7I\nJnSvqVfS3wC0jtAkl0f6e+S25+c8CDEWxon1x4KbfFggd3g5RiLZfrMGDRuDNIzt\ndzKskiKOwjgmCYi++9+gTZzZuZAR9jliX9Jnl6E0r/7uAAtbjOMD8vN0NX+QcLRj\nZ7muWP+tPQKBgDLhowjFOBZsVKv1ktzHhLbF1LMzRK5cKG/3D25mY6UHppog888p\nHnyp+I3xmMW8hxHawKlFUnlc7r24H4S2lgBFuSmVi1hTPumlqR9AfApkzqlPmk/9\ny6/KvTlXr9aL6UxEoF0jgKUkp5X7o2V0oWQBDZdMtXjfLQJgbLNQMbahAoGABbXm\nzvObgXGTjipunTymj2yFMxomPUIqADHWMbMU5IA/CEy+rfELn/EARHH5E0n5IAb3\nI9p984KtPkoNIk06Ms4Gd7AdYTlS/tRDdTOD5jim+tweHCemZckcgT+G4lZayt/A\nmbf5lqG1ReAweR5ptqxWuAIQqgIcOFVuSaGoMM0CgYB9lpyd+SzwU0H4VOCbf5JH\n8Kbol/Qr7zbiMejtbsdDoNuG7Uk3RpFdM+Zw8xJ0W1xQYF+aHqkMn8OvNCMi9m23\nXs9+GxAOlPwcGBeQmavhLyxKAVCbGEgTfgxcIxMMxhfh1uxdz14UTfOG6adW1yiE\ntCdKgixLo+TUuZ8dkJhwaw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "project-catalogue-dashboard@projectcataloguedashboard.iam.gserviceaccount.com",
+  "client_id": "108702858926321060735",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project-catalogue-dashboard%40projectcataloguedashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
