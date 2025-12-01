@@ -13,7 +13,7 @@ today = datetime.today() - timedelta(days=1)
 today = today.strftime('%Y%m%d')
 
 
-#Read Data
+#Notes
 # df1 = pd.read_csv(rf'S:\Forecast\Forecast_{today}.csv', sep=';', on_bad_lines='skip', engine='python', encoding='utf-16')
 # df2 = pd.read_csv(rf'S:\CatalogueUpdate\CatalogueUpdate_{today}.csv', sep=';', on_bad_lines='skip', engine='python', encoding='latin-1')
 # df3 = pd.read_csv(rf'S:\ContainerUpdate\Container{today}.csv', sep=';', on_bad_lines='skip', engine='python', encoding='utf-16')
